@@ -98,7 +98,7 @@ $(document).ready(function () {
 * 接着一个(),里面放图片网址，最后可以用引号包住并加上选择性的'tittle'属性文字  
 ![image](https://github.com/Jcduhdt/learn-tensorflow/blob/master/image/tensorboard.png)  
 ![Test 图标](https://github.com/Jcduhdt/learn-tensorflow/blob/master/image/tensorboard.png 'test')
-![show]<img src="https://github.com/Jcduhdt/learn-tensorflow/blob/master/image/tensorboard.png" width="50%">  
+<img src="https://github.com/Jcduhdt/learn-tensorflow/blob/master/image/tensorboard.png" width="50%">  
 _____________
 # 表格
 使用|分割不同单元格，使用-分割表头和其他行，感觉又失败了   
