@@ -96,4 +96,33 @@ $(document).ready(function () {
 * 开头一个感叹号！  
 * 接着一个[]，里面放上图片的替代文字  
 * 接着一个(),里面放图片网址，最后可以用引号包住并加上选择性的'tittle'属性文字  
-！[tensorboard](
+![image](https://github.com/Jcduhdt/learn-tensorflow/blob/master/image/tensorboard.png)  
+![Test 图标](https://github.com/Jcduhdt/learn-tensorflow/blob/master/image/tensorboard.png 'test')
+![show]<img src="https://github.com/Jcduhdt/learn-tensorflow/blob/master/image/tensorboard.png" width="50%">  
+_____________
+# 表格
+使用|分割不同单元格，使用-分割表头和其他行，感觉又失败了   
+|左对齐  | 居中 | 右对齐|  
+| :---  | :---: | ---:|  
+| 单元格 | 单元格 | 单元格|  
+| 单元格 | 单元格 | 单元格|  
+*******
+# 高级技巧
+支持HTML元素，不再markdown涵盖范围内的标签都可以直接用HTML撰写  
+比如：  
+使用 <kdb>Ctrl</kdb>+<kdb>Alt</kdb>+<kdb>Del</kdb> 重启电脑  
+***
+# 转义
+利用反斜杠键入普通符号 比如\* \_ \#
+*****
+# 公式
+插入数学公式时，可以使用两个美元符号$$包裹Tex或LaTex格式的数学公式来实现  
+又失败了，慢慢学吧。。  
+$$
+\mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix}  
+\mathbf{i} & \mathbf{j} & \mathbf{k} \\  
+\frac{\partial X}{\partial u} &  \frac{\partial Y}{\partial u} & 0 \\  
+\frac{\partial X}{\partial v} &  \frac{\partial Y}{\partial v} & 0 \\  
+\end{vmatrix}  
+$$tep1}{\style{visibility:hidden}{(x+1)(x+1)}}  
+$$
