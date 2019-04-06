@@ -99,7 +99,7 @@ $(document).ready(function () {
 ![image](https://github.com/Jcduhdt/learn-tensorflow/blob/master/image/tensorboard.png)  
 ![Test 图标](https://github.com/Jcduhdt/learn-tensorflow/blob/master/image/tensorboard.png 'test')
 <img src="https://github.com/Jcduhdt/learn-tensorflow/blob/master/image/tensorboard.png" width="50%">  
-_____________
+
 # 表格
 使用|分割不同单元格，使用-分割表头和其他行，感觉又失败了   
 |左对齐  | 居中 | 右对齐|  
